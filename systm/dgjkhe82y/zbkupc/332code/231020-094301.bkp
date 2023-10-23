@@ -1,0 +1,5 @@
+v = input()
+t = ""
+for i in v:
+  if i >= "a" and i<"z":
+    print(i+1)

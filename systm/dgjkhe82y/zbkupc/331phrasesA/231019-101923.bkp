@@ -1,0 +1,17 @@
+o = int(input)
+
+if o==1:
+  v = str(input())
+  for i in v:
+    print(i)
+
+if o==2:
+  v = str(input())
+  for i in v:
+    print(f"{i}-")
+if o==3:
+  v = str(input())
+  t = ""
+  for i in v:
+    t = t+(i+"-")
+  print(t)

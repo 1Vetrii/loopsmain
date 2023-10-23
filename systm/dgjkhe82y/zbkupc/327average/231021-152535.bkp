@@ -1,0 +1,11 @@
+c=0
+sum=0
+num = 0
+while num !=-9999:
+  num = int(input())
+  sum = sum+num
+  c=c+1
+
+avg = sum/c
+
+print(f"The average is {avg:0.1f}")

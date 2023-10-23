@@ -1,0 +1,74 @@
+##showoverall=true
+#300helloworld.py
+##Wed
+301countingfor.py
+302forloops.py
+303forloops.py
+304forloops.py
+##Thu
+305forloops.py
+306forloops.py
+##Tue
+307trees.py
+308words.py
+309lunch.py
+310timestable.py
+##Thu
+311countingwhile.py
+312whileloops.py
+313whileloops.py
+314whileloops.py
+315whileloops.py
+316whileloops.py
+317trees.py
+318words.py
+319lunch.py
+320timestable.py
+## Fri
+321hot.py
+322truefalse.py
+323guess.py
+## Mon
+324points.py
+325positiveneg.py
+## Tue
+326timbits.py
+327average.py
+## Wed
+328vowelcount.py
+329points.py
+330smallest.py
+#########331rockpaper2.py
+## Thu
+331phrasesA.py
+##Fri
+##332code.py
+##Wed
+##334code.py
+##Fri
+##335rectangles.py
+##Tue
+##336nested.py
+##337powers.py
+##Wed
+##338largest.py
+##339smallest.py
+##Mon
+##340integers.py
+#### This is all you used in 22-23 Sem1
+##331decode.py use for eval??
+##390digits.py use for eval???
+##Fri
+##238phrases2.py save for Strings Unit (use [] brackets)
+##Mon
+## Others
+##702vowelcount.py
+##703points1.py
+##721hot.py
+##722truefalse.py
+##723points.py
+##724digits.py
+##725guess.py
+##726positiveneg.py
+##727timbits.py
+##728average.py

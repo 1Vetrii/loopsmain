@@ -1,0 +1,4 @@
+i = 2
+while i<=18:
+  print("Selma ate",i,"hotdogs")
+  i=i+2

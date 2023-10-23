@@ -1,0 +1,10 @@
+c = 0
+co = -1
+cs = 0
+while c !=-99:
+  c = int(input())
+  co = co+1
+  if c !=-99:
+    cs = cs+c
+print(co)
+print(f"Total: {cs})

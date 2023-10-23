@@ -1,0 +1,28 @@
++++++++++++++++++++++++++++++++++++
+10/10/23      08:14:51
+Username:     B
+Filename:     306forloops.py
++++++++++++++++++++++++++++++++++++
+
+Tests Passed: 0.0 %
+Passed:       0/1 tests
+-----------------------------------
+Test 1 - FAIL
+***** Input *****
+
+**** Your Output (console) ********
+     [ 5 lines ]             <---
+When x is 1 y is 7 (19)
+When x is 2 y is 12 (20)
+When x is 3 y is 17 (20)
+When x is 4 y is 22 (20)
+When x is 5 y is 27 (20)
+-----------------------------------
+**** Expected Output (console) ****
+     [ 6 lines ]
+when x is 1, y is 7 (20)
+when x is 2, y is 12 (21)
+when x is 3, y is 17 (21)
+when x is 4, y is 22 (21)
+when x is 5, y is 27 (21)
+when x is 6, y is 32 (20)

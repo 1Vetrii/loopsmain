@@ -1,0 +1,8 @@
+option = int(input)
+i = 30
+
+
+if option == 1 and i<=50:
+  while True:
+    print(i)
+    i=i+1

@@ -1,0 +1,27 @@
+option = int(input())
+
+
+
+if option == 1:
+  i = 30
+  while i<=50:
+    print(i)
+    i=i+1
+    
+if option == 2:
+  i = 30
+  while i<=50:
+    print(i)
+    i=i+2
+
+if option == 3:
+  i = 50
+  while i>=30:
+    print(i)
+    i=i-1
+
+if option == 4:
+  i = 50
+  while i>=30:
+    print(i)
+    i=i-5

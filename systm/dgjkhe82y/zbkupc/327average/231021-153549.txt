@@ -1,0 +1,13 @@
++++++++++++++++++++++++++++++++++++
+10/21/23      15:35:49
+Username:     B
+Filename:     327average.py
++++++++++++++++++++++++++++++++++++
+
+Tests Passed: 0.0%
+
+------------------------------
+Error running "327average.py"
+
+Disable 'check' mode to see
+regular error messages

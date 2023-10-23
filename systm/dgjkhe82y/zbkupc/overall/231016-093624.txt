@@ -1,0 +1,32 @@
++++++++++++++++++++++++++++++++++++++++++
+10/16/23      09:36:24
+Project:      03Loops-TysonCranston
+Username:     B
++++++++++++++++++++++++++++++++++++++++++
+Assignment               Result    Weight
+*****************************************
+301countingfor.py         100.0       2.0
+302forloops.py            100.0       2.0
+303forloops.py            100.0       2.0
+304forloops.py            100.0       2.0
+305forloops.py            100.0       2.0
+306forloops.py            100.0       2.0
+307trees.py               100.0       2.0
+308words.py               100.0       2.0
+309lunch.py               100.0       2.0
+310timestable.py          100.0       2.0
+311countingwhile.py       100.0       2.0
+312whileloops.py          100.0       2.0
+313whileloops.py          100.0       2.0
+314whileloops.py          100.0       2.0
+315whileloops.py          100.0       2.0
+316whileloops.py            0.0       2.0
+317trees.py                 0.0       2.0
+318words.py                 0.0       2.0
+319lunch.py                 0.0       2.0
+320timestable.py            0.0       2.0
+321hot.py                   0.0       2.0
+322truefalse.py             0.0       2.0
+323guess.py                 0.0       2.0
+*****************************************
+Weighted Average: 65 %

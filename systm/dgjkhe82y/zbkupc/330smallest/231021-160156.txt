@@ -1,0 +1,145 @@
++++++++++++++++++++++++++++++++++++
+10/21/23      16:01:56
+Username:     B
+Filename:     330smallest.py
++++++++++++++++++++++++++++++++++++
+
+Tests Passed: 0.0 %
+Passed:       0/18 tests
+-----------------------------------
+Test 1 - FAIL
+***** Input *****
+1
+4
+-2
+**** Your Output (console) ********
+     [ 0 lines ]             <---
+-----------------------------------
+**** Expected Output (console) ****
+     [ 1 lines ]
+The smallest number was -2 (26)
+-----------------------------------
+Test 2 - FAIL
+***** Input *****
+1
+-2
+4
+**** Your Output (console) ********
+     [ 0 lines ]             <---
+-----------------------------------
+**** Expected Output (console) ****
+     [ 1 lines ]
+The smallest number was -2 (26)
+-----------------------------------
+Test 3 - FAIL
+***** Input *****
+2
+3
+8
+4
+**** Your Output (console) ********
+     [ 0 lines ]             <---
+-----------------------------------
+**** Expected Output (console) ****
+     [ 1 lines ]
+The smallest number was 3 (25)
+-----------------------------------
+Test 4 - FAIL
+***** Input *****
+2
+4
+3
+8
+**** Your Output (console) ********
+     [ 0 lines ]             <---
+-----------------------------------
+**** Expected Output (console) ****
+     [ 1 lines ]
+The smallest number was 3 (25)
+-----------------------------------
+Test 5 - FAIL
+***** Input *****
+2
+8
+4
+3
+**** Your Output (console) ********
+     [ 0 lines ]             <---
+-----------------------------------
+**** Expected Output (console) ****
+     [ 1 lines ]
+The smallest number was 3 (25)
+-----------------------------------
+Test 6 - FAIL
+***** Input *****
+3
+4
+1
+5
+9
+**** Your Output (console) ********
+     [ 0 lines ]             <---
+-----------------------------------
+**** Expected Output (console) ****
+     [ 1 lines ]
+The smallest number was 1 (25)
+-----------------------------------
+Test 7 - FAIL
+***** Input *****
+3
+4
+5
+1
+9
+**** Your Output (console) ********
+     [ 0 lines ]             <---
+-----------------------------------
+**** Expected Output (console) ****
+     [ 1 lines ]
+The smallest number was 1 (25)
+-----------------------------------
+Test 8 - FAIL
+***** Input *****
+3
+9
+4
+5
+1
+**** Your Output (console) ********
+     [ 0 lines ]             <---
+-----------------------------------
+**** Expected Output (console) ****
+     [ 1 lines ]
+The smallest number was 1 (25)
+-----------------------------------
+Test 9 - FAIL
+***** Input *****
+3
+1
+5
+4
+9
+**** Your Output (console) ********
+     [ 0 lines ]             <---
+-----------------------------------
+**** Expected Output (console) ****
+     [ 1 lines ]
+The smallest number was 1 (25)
+-----------------------------------
+Test 10 - Hidden Test Case - FAIL
+-----------------------------------
+Test 11 - Hidden Test Case - FAIL
+-----------------------------------
+Test 12 - Hidden Test Case - FAIL
+-----------------------------------
+Test 13 - Hidden Test Case - FAIL
+-----------------------------------
+Test 14 - Hidden Test Case - FAIL
+-----------------------------------
+Test 15 - Hidden Test Case - FAIL
+-----------------------------------
+Test 16 - Hidden Test Case - FAIL
+-----------------------------------
+Test 17 - Hidden Test Case - FAIL
+-----------------------------------
+Test 18 - Hidden Test Case - FAIL

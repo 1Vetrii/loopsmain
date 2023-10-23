@@ -1,0 +1,6 @@
+v = str(input())
+c = 0
+for i in v:
+  print(i,c)
+  c = c+1
+print(f"There are {c} characters")

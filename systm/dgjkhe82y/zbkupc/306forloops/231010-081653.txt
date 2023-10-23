@@ -1,0 +1,13 @@
++++++++++++++++++++++++++++++++++++
+10/10/23      08:16:53
+Username:     B
+Filename:     306forloops.py
++++++++++++++++++++++++++++++++++++
+
+Tests Passed: 0.0%
+
+------------------------------
+Error running "306forloops.py"
+
+Disable 'check' mode to see
+regular error messages

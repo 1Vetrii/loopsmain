@@ -1,0 +1,32 @@
+name1 = input()
+name2 = input()
+
+input1 = True
+input2 = False
+c1 = 0
+c2 = 0
+sum1 = 0
+sum2 = 0
+while input1:
+  if c1 <4:
+    add1 = int(input())
+    sum1 = sum1+add1
+    input2 = True
+    input1 = False
+    c1 = c1+1
+  elif c2 >3 and c1 >3:
+    print(f"{name1} ate {sum1} timbits\n{name2} ate {sum2} timbits\nThey ate a total of {sum1+sum2} timbits")
+    input2 = False
+    input1 = False
+
+while input2:
+  if c2 <4:
+    add2 = int(input())
+    sum1 = sum1+add2
+    input1 = True
+    input2 = False
+    c2 = c2+1
+  elif c2 >3 and c1 >3:
+    print(f"{name1} ate {sum1} timbits\n{name2} ate {sum2} timbits\nThey ate a total of {sum1+sum2} timbits")
+    input2 = False
+    input1 = False

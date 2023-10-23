@@ -1,0 +1,8 @@
+print ("eggs")
+print ("eggs")
+print ("eggs")
+print ("eggs")
+print ("eggs")
+
+for i in range(1,6):
+  print(i)

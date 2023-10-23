@@ -1,0 +1,13 @@
++++++++++++++++++++++++++++++++++++
+10/21/23      16:01:44
+Username:     B
+Filename:     330smallest.py
++++++++++++++++++++++++++++++++++++
+
+Tests Passed: 0.0%
+
+------------------------------
+Error running "330smallest.py"
+
+Disable 'check' mode to see
+regular error messages

@@ -1,0 +1,4 @@
+print("Hello")
+
+for a in range(20,15,-1):
+  print(f"hi {a}")

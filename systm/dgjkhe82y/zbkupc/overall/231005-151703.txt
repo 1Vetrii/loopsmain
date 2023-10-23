@@ -1,0 +1,13 @@
++++++++++++++++++++++++++++++++++++++++++
+10/05/23      15:17:03
+Project:      03Loops-TysonCranston
+Username:     B
++++++++++++++++++++++++++++++++++++++++++
+Assignment               Result    Weight
+*****************************************
+301countingfor.py         100.0       2.0
+302forloops.py            100.0       2.0
+303forloops.py              0.0       2.0
+304forloops.py              0.0       2.0
+*****************************************
+Weighted Average: 50 %

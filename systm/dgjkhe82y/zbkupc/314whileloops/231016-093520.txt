@@ -1,0 +1,34 @@
++++++++++++++++++++++++++++++++++++
+10/16/23      09:35:20
+Username:     B
+Filename:     314whileloops.py
++++++++++++++++++++++++++++++++++++
+
+Tests Passed: 0.0 %
+Passed:       0/1 tests
+-----------------------------------
+Test 1 - FAIL
+***** Input *****
+
+**** Your Output (console) ********
+     [ 9 lines ]             <---
+Selma ate 2 hotdogs (20)
+Selma ate 4 hotdogs (20)
+Selma ate 6 hotdogs (20)
+Selma ate 8 hotdogs (20)
+Selma ate 10 hotdogs (21)
+Selma ate 12 hotdogs (21)
+Selma ate 14 hotdogs (21)
+Selma ate 16 hotdogs (21)
+Selma ate 18 hotdogs (21)
+-----------------------------------
+**** Expected Output (console) ****
+     [ 8 lines ]
+Selma ate 2 hotdogs (20)
+Selma ate 4 hotdogs (20)
+Selma ate 6 hotdogs (20)
+Selma ate 8 hotdogs (20)
+Selma ate 10 hotdogs (21)
+Selma ate 12 hotdogs (21)
+Selma ate 14 hotdogs (21)
+Selma ate 16 hotdogs (20)

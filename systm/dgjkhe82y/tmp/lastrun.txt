@@ -1,0 +1,5 @@
+Time:10/21/23      16:05:12
+Codename:B
+Project:03Loops-TysonCranston
+File:330smallest.py
+Mode:check

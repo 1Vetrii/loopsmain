@@ -1,0 +1,20 @@
++++++++++++++++++++++++++++++++++++
+10/16/23      09:38:08
+Username:     B
+Filename:     319lunch.py
++++++++++++++++++++++++++++++++++++
+Banned Strings are:
+['for', '\\n']
+
+1 banned string(s) found
+
+Line 7:   print(f"{op} ate {i*word} {food}s for lunch")
+
+
++++++++++++++++++++++++++++++++++++
+
+CHECK MODE HALTED...
+
+Review Restrictions in Assignment
+
+Tests Passed: 0.0 %

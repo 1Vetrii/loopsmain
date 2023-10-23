@@ -1,0 +1,5 @@
+go=True
+counter=0
+while go and counter <6:
+  print("eggs",counter)
+  counter = counter+1

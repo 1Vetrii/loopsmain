@@ -1,0 +1,6 @@
+c = 0
+co = -1
+while c !=-99:
+  c = int(input())
+  co = co+1
+print(co)

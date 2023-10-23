@@ -1,0 +1,4 @@
+go=True
+
+while go:
+  print("Eggs")

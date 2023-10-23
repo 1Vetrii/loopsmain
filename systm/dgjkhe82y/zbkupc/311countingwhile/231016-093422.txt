@@ -1,0 +1,13 @@
++++++++++++++++++++++++++++++++++++
+10/16/23      09:34:22
+Username:     B
+Filename:     311countingwhile.py
++++++++++++++++++++++++++++++++++++
+
+Tests Passed: 0.0%
+
+------------------------------
+Error running "311countingwhile.py"
+
+Disable 'check' mode to see
+regular error messages

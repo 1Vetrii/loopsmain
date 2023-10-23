@@ -1,0 +1,10 @@
+i = 0
+h = 0
+c = 0
+tempdata = 0
+while tempdata != -99:
+  tempdata = int(input())
+  if tempdata >=30:
+    h = h+1
+  else:
+    c = c+1

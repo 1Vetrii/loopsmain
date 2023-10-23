@@ -1,0 +1,12 @@
+answer = int(input())
+guess = int(input())
+takes = 1
+while guess != answer:
+  guess = int(input())
+  if guess > answer:
+    print("Guess was too high")
+  else:
+    print("Guess was too low")
+  takes = takes+1
+print("Congratulations - you guessed the number!")
+print("Guesses Taken:",takes)
