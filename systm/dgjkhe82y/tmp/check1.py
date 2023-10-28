@@ -2,38 +2,57 @@ import sys
 infile = "systm/dgjkhe82y/tmp/input1.txt"
 sys.stdin = open (infile)
 #----------------------------------
-
 option = int(input())
 
-if option == 1:
-  num1 = int(input())
-  num2 = int(input())
-  if num1 < num2:
-    print(f"The smallest number was {num1}")
-  else:
-    print(f"The smallest number was {num2}")
-
-if option == 2:
-  num1 = int(input())
-  num2 = int(input())
-  num3 = int(input())
-  if num1 < num2 and num1 < num3:
-    print(f"The smallest number was {num1}")
-  elif num2 < num1 and num2 < num3:
-    print(f"The smallest number was {num2}")
-  elif num3 < num2 and num3 < num1:
-    print(f"The smallest number was {num3}")
+if option==1:
+  for r in range(1,11):
+    for c in range(1,11):
+      if r == 10 or r==1 or c==1 or c==10:
+        print("*",end="")
+      else:
+        print(" ",end="")
+    print()
+if option==2:
+  for r in range(1,11):
+    for c in range(1,11):
+      if r == 5 or r==1 or c==1 or c==10:
+        print("*",end="")
+      else:
+        print(" ",end="")
+    print()
 
 if option==3:
-  num1 = int(input())
-  num2 = int(input())
-  num3 = int(input())
-  num4 = int(input())
-  if num1 < num2 and num1 < num3 and num1 < num4:
-    print(f"The smallest number was {num1}")
-  elif num2 < num1 and num2 < num3 and num2 < num4:
-    print(f"The smallest number was {num2}")
-  elif num3 < num2 and num3 < num1 and num3 < num4:
-    print(f"The smallest number was {num3}")
-  elif num4 < num1 and num4 < num2 and num4 < num3:
-    print(f"The smallest number was {num4}")
+  for r in range(1,11):
+    for c in range(1,11):
+      if r==5 or c==5:
+        print("*",end="")
+      else:
+        print(" ",end="")
+    print()
+
+if option==4:
+  for r in range(1,11):
+    for c in range(1,11):
+      if r>=4 and r<=6 or c>=4 and c<=6:
+        print("*",end="")
+      else:
+        print(" ",end="")
+    print()
+
+if option==5:
+  for r in range(1,11):
+    for c in range(1,11):
+      if c==10 or c==1 or (r-1)%3==0:
+        print("*",end="")
+      else:
+        print(" ",end="")
+    print()
+
+if option==6:
+  for x in range(1,11):
+    for y in range(1,11):
+      if y == x or y==(-1*x)+11:
+        print("*",end="")
+      else:
+        print(" ",end="")
+    print()

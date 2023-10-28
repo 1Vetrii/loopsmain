@@ -1,0 +1,10 @@
+option = int(input())
+
+if option==1:
+  for r in range(10):
+    for c in range(10):
+      if r == 10 or r==1 or c==1 or c==10:
+        print("*",end="")
+      else:
+        print(" ",end="")
+  print()

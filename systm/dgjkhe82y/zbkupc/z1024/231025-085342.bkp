@@ -1,0 +1,7 @@
+for x in range(20,0,-1):
+  for y in range(20):
+    if y == 5*x+4:
+      print(f"* {x}, {y}",end="")
+    else:
+      print(" ",end="")
+  print()

@@ -1,0 +1,7 @@
+for x in range(1000,0,-1):
+  for y in range(1000):
+    if y == 0.1*x+4:
+      print(f"* {x}, {y}",end="")
+    else:
+      print(" ",end="")
+  print()

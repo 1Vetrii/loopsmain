@@ -1,0 +1,13 @@
++++++++++++++++++++++++++++++++++++
+10/27/23      13:06:20
+Username:     B
+Filename:     334rockpaper2.py
++++++++++++++++++++++++++++++++++++
+
+Tests Passed: 0.0%
+
+------------------------------
+Error running "334rockpaper2.py"
+
+Disable 'check' mode to see
+regular error messages

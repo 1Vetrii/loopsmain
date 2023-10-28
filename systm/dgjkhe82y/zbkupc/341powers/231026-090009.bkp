@@ -1,0 +1,10 @@
+option = int(input())
+
+if option == 1:
+  num = int(input())
+  power = int(input())
+  answer = num**power
+  if power == 0 or power == 1:
+    print(f"{num}^{power}={answer}")
+  else:
+    print(f"{num}^{power}="+((str(num)+"*")*(num-1))+f"{num}")

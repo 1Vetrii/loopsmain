@@ -1,5 +1,5 @@
-Time:10/21/23      16:05:12
+Time:10/28/23      16:36:41
 Codename:B
 Project:03Loops-TysonCranston
-File:330smallest.py
+File:337patterns.py
 Mode:check

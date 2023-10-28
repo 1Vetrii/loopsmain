@@ -1,1 +1,10 @@
-The smallest number was 1
+*        *
+ *      * 
+  *    *  
+   *  *   
+    **    
+    **    
+   *  *   
+  *    *  
+ *      * 
+*        *

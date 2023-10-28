@@ -1,0 +1,56 @@
+c = 0
+p1w=0
+p2w=0
+thai=0
+winner = "nobody"
+while c <=10 or p1w > 2 or p2w > 2:
+  
+  p1 = str(input())
+  p2 = str(input())
+
+  #Rock and Paper
+  if p1 == "R" and p2 == "P":
+    print(f"Player 2 wins round {c}")
+    p2w = p2w+1
+  if p2 == "R" and p1 == "P": 
+    print(f"Player 1 wins round {c}")
+    p1w = p1w+1
+  
+  #Rock and Scissors
+  if p1 == "R" and p2 == "S":
+    print(f"Player 1 wins round {c}")
+    p1w = p1w+1
+  if p1 == "S" and p2 == "R":
+    print(f"Player 2 wins round {c}")
+    p2w = p2w+1
+  #Scissors and Paper
+  if p1 == "S" and p2 == "P":
+    print(f"Player 1 wins round {c}")
+    p1w = p1w+1
+  if p1 == "P" and p2 == "S":
+    print(f"Player 2 wins round {c}")
+    p2w = p2w+1
+  if p1 == p2:
+    print(f"Tie for round {c}")
+    thai=thai+1
+  c=c+1
+
+if p1w>p2w:
+  winner = "Player 1"
+
+if p2w>p1w:
+  winner = "Player 2"
+
+if p1w == p2w:
+  winner = "Thai"
+if p1w == 0 and p2w ==0:
+  winner = "Thai"
+
+if winner == "Player 1":
+  print(f"Player 1 wins the match after {c} rounds!
+")
+if winner == "Player 2":
+  print(f"Player 2 wins the match after {c} rounds!
+")
+if winner == "Thai":
+  print(f"Tie - No winner after {c} rounds!")

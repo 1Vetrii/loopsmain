@@ -1,0 +1,9 @@
+num = int(input)
+c=1
+for i in range(num):
+  print("A:",end="")
+  for a in range(c):
+    print("A")
+  
+c=c+1
+print()

@@ -38,24 +38,24 @@
 328vowelcount.py
 329points.py
 330smallest.py
-#########331rockpaper2.py
 ## Thu
 331phrasesA.py
 ##Fri
-##332code.py
-##Wed
-##334code.py
-##Fri
-##335rectangles.py
-##Tue
-##336nested.py
-##337powers.py
-##Wed
-##338largest.py
-##339smallest.py
-##Mon
-##340integers.py
-#### This is all you used in 22-23 Sem1
+332code.py
+333code.py
+## Mon
+334rockpaper2.py
+335rectangles.py
+336nested.py
+## Tue
+337patterns.py
+## Wed
+338largest.py
+339smallest.py
+## Thu
+340integers.py
+341powers.py
+#### This is all you used in 22-23 Sem1 and 23-24 Sem1
 ##331decode.py use for eval??
 ##390digits.py use for eval???
 ##Fri

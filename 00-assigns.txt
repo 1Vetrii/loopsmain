@@ -30,3 +30,13 @@
 ## file=329points.py
 ## file=330smallest.py
 ## file=331phrasesA.py
+## file=332code.py
+## file=333code.py
+## file=334rockpaper2.py
+## file=335rectangles.py
+## file=336nested.py
+## file=337patterns.py
+## file=338largest.py
+## file=339smallest.py
+## file=340integers.py
+## file=341powers.py

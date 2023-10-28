@@ -1,0 +1,11 @@
+g=0
+num = int(input())
+while num>=0:
+  prev = num
+  num = int(input())
+  if prev > num:
+    g = prev
+  elif num > prev:
+    g = num
+  print(g)
+print(g)

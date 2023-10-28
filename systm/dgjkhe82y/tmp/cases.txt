@@ -1,134 +1,82 @@
-BANNED=for,while,min,sort,[
-#LIMITS=if,2
+BANNED=def,while,break
+LIMITS=print,18, or,11
 #ATLEAST=(,5,=int,2
 #REQUIRED=import math
 
-case=
+case=1
 input=1
-4
--2
-output=The smallest number was -2
+output=**********
+*        *
+*        *
+*        *
+*        *
+*        *
+*        *
+*        *
+*        *
+**********
 
-case=
-input=1
--2
-4
-output=The smallest number was -2
-
-case=
+case=2
 input=2
-3
-8
-4
-output=The smallest number was 3
+output=**********
+*        *
+*        *
+*        *
+**********
+*        *
+*        *
+*        *
+*        *
+*        *
 
-case=
-input=2
-4
-3
-8
-output=The smallest number was 3
-
-case=
-input=2
-8
-4
-3
-output=The smallest number was 3
-
-case=
+case=3
 input=3
-4
-1
-5
-9
-output=The smallest number was 1
+output=    *     
+    *     
+    *     
+    *     
+**********
+    *     
+    *     
+    *     
+    *     
+    *     
 
-case=
-input=3
-4
-5
-1
-9
-output=The smallest number was 1
+case=4
+input=4
+output=   ***    
+   ***    
+   ***    
+**********
+**********
+**********
+   ***    
+   ***    
+   ***    
+   ***    
 
-case=
-input=3
-9
-4
-5
-1
-output=The smallest number was 1
+case=5
+input=5
+output=**********
+*        *
+*        *
+**********
+*        *
+*        *
+**********
+*        *
+*        *
+**********
 
-case=
-input=3
-1
-5
-4
-9
-output=The smallest number was 1
-
-case=hidden10
-input=1
-4
--5
-output=The smallest number was -5
-
-case=hidden11
-input=1
--5
-4
-output=The smallest number was -5
-
-case=hidden12
-input=2
--3
-8
-4
-output=The smallest number was -3
-
-case=hidden13
-input=2
-4
--3
-8
-output=The smallest number was -3
-
-case=hidden14
-input=2
-8
-4
--3
-output=The smallest number was -3
-
-case=hidden15
-input=3
-4
--1
-5
-9
-output=The smallest number was -1
-
-case=hidden16
-input=3
-4
-5
--1
-9
-output=The smallest number was -1
-
-case=hidden17
-input=3
-9
-4
-5
--1
-output=The smallest number was -1
-
-case=hidden18
-input=3
--1
-5
-4
-9
-output=The smallest number was -1
+case=6
+input=6
+output=*        *
+ *      * 
+  *    *  
+   *  *   
+    **    
+    **    
+   *  *   
+  *    *  
+ *      * 
+*        *

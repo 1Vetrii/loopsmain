@@ -1,0 +1,7 @@
+for x in range(20,0,-1):
+  for y in range(20):
+    if y == x:
+      print(f"* {x}, {y}",end="")
+    else:
+      print(" ",end="")
+  print()

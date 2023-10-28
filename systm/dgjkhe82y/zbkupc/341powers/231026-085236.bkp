@@ -1,0 +1,7 @@
+option = int(input())
+
+if option == 1:
+  num = int(input())
+  power = int(input())
+  answer = num**power
+  print(f"{num}^{power}={answer}")

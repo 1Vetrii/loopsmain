@@ -1,4 +1,4 @@
-option = int(input())
+nnoption = int(input())
 
 if option == 1:
   for i in range(30,51):

@@ -1,5 +1,5 @@
 +++++++++++++++++++++++++++++++++++++++++
-10/21/23      16:05:12
+10/28/23      16:36:41
 Project:      03Loops-TysonCranston
 Username:     B
 +++++++++++++++++++++++++++++++++++++++++
@@ -36,5 +36,15 @@ Assignment               Result    Weight
 329points.py                0.0       2.0
 330smallest.py            100.0       2.0
 331phrasesA.py            100.0       2.0
+332code.py                100.0       2.0
+333code.py                100.0       2.0
+334rockpaper2.py          100.0       2.0
+335rectangles.py          100.0       2.0
+336nested.py              100.0       2.0
+337patterns.py            100.0       2.0
+338largest.py             100.0       2.0
+339smallest.py              0.0       2.0
+340integers.py              0.0       2.0
+341powers.py              100.0       2.0
 *****************************************
-Weighted Average: 94 %
+Weighted Average: 90 %
