@@ -1,0 +1,5 @@
+g = 0
+for i in str(input()):
+  if ord(i)>g:
+    g = ord(i)
+print(g)

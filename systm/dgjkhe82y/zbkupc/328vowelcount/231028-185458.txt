@@ -1,0 +1,13 @@
++++++++++++++++++++++++++++++++++++
+10/28/23      18:54:58
+Username:     B
+Filename:     328vowelcount.py
++++++++++++++++++++++++++++++++++++
+
+Tests Passed: 0.0%
+
+------------------------------
+Error running "328vowelcount.py"
+
+Disable 'check' mode to see
+regular error messages

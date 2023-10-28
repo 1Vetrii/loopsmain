@@ -1,0 +1,5 @@
+g = "@"
+for i in str(input()):
+  if i<g:
+    g = i
+print(g)

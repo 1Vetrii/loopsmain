@@ -29,10 +29,10 @@ else
    clear
 cat systm/dgjkhe82y/tmp/summary0.txt >systm/dgjkhe82y/tmp/summary.txt
 cat systm/dgjkhe82y/tmp/summary1.txt >>systm/dgjkhe82y/tmp/summary.txt
-cat systm/dgjkhe82y/tmp/summary.txt > reports/337patterns.txt
-cat systm/dgjkhe82y/tmp/summary.txt > systm/dgjkhe82y/zbkupc/337patterns/337patterns.txt
-cat systm/dgjkhe82y/tmp/summary.txt > systm/dgjkhe82y/zbkupc/337patterns/231028-163641.txt
-cat 337patterns.py > systm/dgjkhe82y/zbkupc/337patterns/231028-163641.bkp
+cat systm/dgjkhe82y/tmp/summary.txt > reports/329points.txt
+cat systm/dgjkhe82y/tmp/summary.txt > systm/dgjkhe82y/zbkupc/329points/329points.txt
+cat systm/dgjkhe82y/tmp/summary.txt > systm/dgjkhe82y/zbkupc/329points/231028-190042.txt
+cat 329points.py > systm/dgjkhe82y/zbkupc/329points/231028-190042.bkp
 cat systm/dgjkhe82y/tmp/summary.txt
 
 fi

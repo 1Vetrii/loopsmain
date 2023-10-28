@@ -1,0 +1,50 @@
++++++++++++++++++++++++++++++++++++++++++
+10/28/23      16:56:57
+Project:      03Loops-TysonCranston
+Username:     B
++++++++++++++++++++++++++++++++++++++++++
+Assignment               Result    Weight
+*****************************************
+301countingfor.py         100.0       2.0
+302forloops.py            100.0       2.0
+303forloops.py            100.0       2.0
+304forloops.py            100.0       2.0
+305forloops.py            100.0       2.0
+306forloops.py            100.0       2.0
+307trees.py               100.0       2.0
+308words.py               100.0       2.0
+309lunch.py               100.0       2.0
+310timestable.py          100.0       2.0
+311countingwhile.py       100.0       2.0
+312whileloops.py          100.0       2.0
+313whileloops.py          100.0       2.0
+314whileloops.py          100.0       2.0
+315whileloops.py          100.0       2.0
+316whileloops.py          100.0       2.0
+317trees.py               100.0       2.0
+318words.py               100.0       2.0
+319lunch.py               100.0       2.0
+320timestable.py          100.0       2.0
+321hot.py                 100.0       2.0
+322truefalse.py           100.0       2.0
+323guess.py               100.0       2.0
+324points.py              100.0       2.0
+325positiveneg.py         100.0       2.0
+326timbits.py             100.0       2.0
+327average.py             100.0       2.0
+328vowelcount.py            0.0       2.0
+329points.py                0.0       2.0
+330smallest.py            100.0       2.0
+331phrasesA.py            100.0       2.0
+332code.py                100.0       2.0
+333code.py                100.0       2.0
+334rockpaper2.py          100.0       2.0
+335rectangles.py          100.0       2.0
+336nested.py              100.0       2.0
+337patterns.py            100.0       2.0
+338largest.py             100.0       2.0
+339smallest.py            100.0       2.0
+340integers.py              0.0       2.0
+341powers.py              100.0       2.0
+*****************************************
+Weighted Average: 93 %

@@ -1,0 +1,5 @@
+g = "nil"
+for i in str(input()):
+  if ord(i)>g:
+    g = i
+print(g)

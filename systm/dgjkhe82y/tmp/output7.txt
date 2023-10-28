@@ -1,1 +1,6 @@
-678
+Integers: 17
+Largest: 98
+Smallest: 51
+Total: 1197
+Average: 70.4
+Less than 51: 0

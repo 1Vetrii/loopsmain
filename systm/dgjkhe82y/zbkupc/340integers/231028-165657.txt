@@ -1,0 +1,27 @@
++++++++++++++++++++++++++++++++++++
+10/28/23      16:56:57
+Username:     B
+Filename:     340integers.py
++++++++++++++++++++++++++++++++++++
+Banned Strings are:
+['import', 'len', 'max', 'min', 'sum', 'mean', 'count', '[', ']', '{', '}']
+
+6 banned string(s) found
+
+Line 3: sum=0
+
+Line 11:   sum = sum+num
+
+Line 12:   avg = round(float(sum/c),1)
+
+Line 20: print(f"Integers: {c}\nLargest: {g}\nSmallest: {s}\nTotal: {sum}\nAverage: {avg}\nLess than {numl}: {lt}")
+Line 20: print(f"Integers: {c}\nLargest: {g}\nSmallest: {s}\nTotal: {sum}\nAverage: {avg}\nLess than {numl}: {lt}")
+Line 20: print(f"Integers: {c}\nLargest: {g}\nSmallest: {s}\nTotal: {sum}\nAverage: {avg}\nLess than {numl}: {lt}")
+
++++++++++++++++++++++++++++++++++++
+
+CHECK MODE HALTED...
+
+Review Restrictions in Assignment
+
+Tests Passed: 0.0 %

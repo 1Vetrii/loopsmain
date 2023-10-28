@@ -2,57 +2,16 @@ import sys
 infile = "systm/dgjkhe82y/tmp/input3.txt"
 sys.stdin = open (infile)
 #----------------------------------
-option = int(input())
+w = 0
+l = 0
+t = 0
+for i in str(input()):
+  if i=="W":
+    w = w+1
+  if i=="L":
+    l = l+1
+  if i=="T":
+    t = t+1
 
-if option==1:
-  for r in range(1,11):
-    for c in range(1,11):
-      if r == 10 or r==1 or c==1 or c==10:
-        print("*",end="")
-      else:
-        print(" ",end="")
-    print()
-if option==2:
-  for r in range(1,11):
-    for c in range(1,11):
-      if r == 5 or r==1 or c==1 or c==10:
-        print("*",end="")
-      else:
-        print(" ",end="")
-    print()
-
-if option==3:
-  for r in range(1,11):
-    for c in range(1,11):
-      if r==5 or c==5:
-        print("*",end="")
-      else:
-        print(" ",end="")
-    print()
-
-if option==4:
-  for r in range(1,11):
-    for c in range(1,11):
-      if r>=4 and r<=6 or c>=4 and c<=6:
-        print("*",end="")
-      else:
-        print(" ",end="")
-    print()
-
-if option==5:
-  for r in range(1,11):
-    for c in range(1,11):
-      if c==10 or c==1 or (r-1)%3==0:
-        print("*",end="")
-      else:
-        print(" ",end="")
-    print()
-
-if option==6:
-  for x in range(1,11):
-    for y in range(1,11):
-      if y == x or y==(-1*x)+11:
-        print("*",end="")
-      else:
-        print(" ",end="")
-    print()
+p=((w*3)+(l)+(t*2))
+print(f"W-L-T\n{w}-{l}-{t}\nPoints: {p}")

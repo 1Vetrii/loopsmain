@@ -1,0 +1,13 @@
+w = 0
+l = 0
+t = 0
+for i in str(input())
+  if i=="W":
+    w = w+1
+  if i=="L":
+    l = l+1
+  if i=="T":
+    t = t+1
+
+p=((w*3)+(l*2)+(t))
+print(f"W-L-T\n{w}-{l}-{t}\nPoints: {p}")

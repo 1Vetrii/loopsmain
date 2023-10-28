@@ -1,82 +1,41 @@
-BANNED=def,while,break
-LIMITS=print,18, or,11
+BANNED=while,range,break,[,count
+#LIMITS=print,6
+#LIMITS=(,2,=,1
 #ATLEAST=(,5,=int,2
 #REQUIRED=import math
 
-case=1
-input=1
-output=**********
-*        *
-*        *
-*        *
-*        *
-*        *
-*        *
-*        *
-*        *
-**********
+case=
+input=WWLLT
+output=W-L-T
+2-2-1
+Points: 10
 
-case=2
-input=2
-output=**********
-*        *
-*        *
-*        *
-**********
-*        *
-*        *
-*        *
-*        *
-*        *
+case=
+input=WWWLWWWT
+output=W-L-T
+6-1-1
+Points: 21
 
-case=3
-input=3
-output=    *     
-    *     
-    *     
-    *     
-**********
-    *     
-    *     
-    *     
-    *     
-    *     
+case=
+input=LLLTLTT
+output=W-L-T
+0-4-3
+Points: 10
 
-case=4
-input=4
-output=   ***    
-   ***    
-   ***    
-**********
-**********
-**********
-   ***    
-   ***    
-   ***    
-   ***    
+case=hidden4
+input=WWWLT
+output=W-L-T
+3-1-1
+Points: 12
 
-case=5
-input=5
-output=**********
-*        *
-*        *
-**********
-*        *
-*        *
-**********
-*        *
-*        *
-**********
+case=hidden5
+input=LWWLW
+output=W-L-T
+3-2-0
+Points: 11
 
-case=6
-input=6
-output=*        *
- *      * 
-  *    *  
-   *  *   
-    **    
-    **    
-   *  *   
-  *    *  
- *      * 
-*        *
+case=hidden6
+input=LLLLL
+output=W-L-T
+0-5-0
+Points: 5

@@ -1,0 +1,13 @@
++++++++++++++++++++++++++++++++++++
+10/28/23      18:59:21
+Username:     B
+Filename:     329points.py
++++++++++++++++++++++++++++++++++++
+
+Tests Passed: 0.0%
+
+------------------------------
+Error running "329points.py"
+
+Disable 'check' mode to see
+regular error messages
